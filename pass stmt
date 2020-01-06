@@ -1,0 +1,4 @@
+for letter in "HELLO"
+  pass
+  print("pass : ",letter)
+print("done")
