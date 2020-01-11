@@ -1,4 +1,3 @@
-print('hello!world')
-
-from pythonlib import sum
-print(sumoftwo.sum(2,3))
+def display():
+    print('Hello')
+    print('welcome to python')
